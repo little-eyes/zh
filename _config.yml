@@ -68,4 +68,7 @@ theme: maupassant
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/little-eyes/zh.git
+  branch: gh-pages
+  message: "normal deployment"
