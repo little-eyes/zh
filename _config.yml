@@ -7,7 +7,7 @@ title: The Little’s Place
 subtitle: 追寻真理得自由
 description: 爱
 author: Jilong Liao
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,16 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: maupassant
+theme: next
+
+since: 2015
+
+google_analytics: UA-32402817-1
+
+duoshuo_shortname: jilongliao
+
+social:
+  GitHub: https://github.com/little-eyes
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
