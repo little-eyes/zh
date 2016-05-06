@@ -57,6 +57,11 @@
             </time>
           </span>
 
+          {% if post.author %}
+            &nbsp; | &nbsp;
+            <span class="post-meta-item-text">{{post.author}}</span>
+          {% endif %}
+
           {% if post.categories and post.categories.length %}
             <span class="post-category" >
               &nbsp; | &nbsp;
