@@ -1,4 +1,4 @@
-title: "一切开始的地方"
+title: "奇妙的以色列 - 一切开始的地方"
 layout: post
 tags:
   - 耶稣
