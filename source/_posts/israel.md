@@ -8,7 +8,7 @@ category:
 date: 2016/5/1
 ---
 
-![以色列](/zh/images/israel.jpg)
+{% fullimage http://jilongliao.azureedge.net/images/zh/israel.jpg, 马萨达要塞, 马萨达要塞 %}
 
 第一次走进中东地区，颠覆了很多我们曾今的印象。记得初中的时候，在新闻里面常常出现的关于以色列的冲突便是和它的邻居巴勒斯坦。我也在周记中写过自己的观点。很难相信我能够有机会踏上这块土地接触上帝的选民。
 
@@ -47,26 +47,26 @@ date: 2016/5/1
 
 ### 特拉维夫
 一个非常现代化的城市，被称为以色列的`现在`。
-![以色列](/zh/images/telaviv.jpg)
-![以色列](/zh/images/jafa.jpg)
-![以色列](/zh/images/beach.jpg)
+{% fullimage http://jilongliao.azureedge.net/images/zh/telaviv.jpg, 特拉维夫, 特拉维夫 %}
+{% fullimage http://jilongliao.azureedge.net/images/zh/jafa.jpg, 加法海边, 加法海边 %}
+{% fullimage http://jilongliao.azureedge.net/images/zh/beach.jpg, 加法海滩, 加法海滩 %}
 
 ### 废墟中的米吉多
-![以色列](/zh/images/meggido.jpg)
+{% fullimage http://jilongliao.azureedge.net/images/zh/meggido.jpg, ,  %}
 
 ### 夜晚加利利海
-![以色列](/zh/images/galilee.jpg)
+{% fullimage http://jilongliao.azureedge.net/images/zh/galilee.jpg, ,  %}
 
 ### 约旦河附近
-![以色列](/zh/images/jordanriver.jpg)
-![以色列](/zh/images/site1.jpg)
+{% fullimage http://jilongliao.azureedge.net/images/zh/jordanriver.jpg, ,  %}
+{% fullimage http://jilongliao.azureedge.net/images/zh/site1.jpg, ,  %}
 
 ### 首都耶路撒冷
-![以色列](/zh/images/Jerusalem.jpg)
-![以色列](/zh/images/jerusalem2.jpg)
-![以色列](/zh/images/westernwall.jpg)
-![以色列](/zh/images/street.jpg)
+{% fullimage http://jilongliao.azureedge.net/images/zh/jerusalem.jpg, ,  %}
+{% fullimage http://jilongliao.azureedge.net/images/zh/jerusalem2.jpg, ,  %}
+{% fullimage http://jilongliao.azureedge.net/images/zh/westernwall.jpg, ,  %}
+{% fullimage http://jilongliao.azureedge.net/images/zh/street.jpg, ,  %}
 
 ### 死海附近
-![以色列](/zh/images/deadsea.jpg)
-![以色列](/zh/images/deadsea2.jpg)
+{% fullimage http://jilongliao.azureedge.net/images/zh/deadsea.jpg, ,  %}
+{% fullimage http://jilongliao.azureedge.net/images/zh/deadsea2.jpg, ,  %}
