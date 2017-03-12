@@ -9,13 +9,13 @@ date: 2016/5/5
 author: 小蘑菇
 ---
 
-{% fullimage http://jilongliao.azureedge.net/images/zh/birth.jpg, 以色列, 以色列 %}
+![](http://jilongliao.azureedge.net/images/zh/birth.jpg)
 
 2000多年前，一个胖嘟嘟的白人男孩在有大卫城之称的`伯利恒`降生了，他的父母是一对很年轻很天真但是不傻的犹太小夫妻。你也许在一些有关圣诞节的电影里看过这个故事。白白胖胖的耶稣小北鼻被布包裹着，安静地躺在马槽里睡着觉。围在他身边的是他的爹娘，童贞女玛利亚和约瑟夫。在耶稣出生后不久，有牧羊人在野外跟天使聊过天后紧赶慢赶地去观摩这个小婴儿。紧跟着他们的脚步前来拜访耶稣的是几个来自东方的智者，他们给小婴儿带来了贵重的礼物。
 
 <!-- more -->
 
-{% fullimage http://jilongliao.azureedge.net/images/zh/birthplace.jpg, 伯利恒, 伯利恒 %}
+![](http://jilongliao.azureedge.net/images/zh/birthplace.jpg)
 
 但是你可能在看过这个故事后问过这样的问题，听起来这么扯淡的故事是真事儿吗？不仅这个问题，你可能也问过，耶稣居然是白人？没想到中东那地方竟然也有白人！
 
@@ -55,4 +55,4 @@ author: 小蘑菇
 他来过，活过，死了又在死里复活。因为他现在活着，所以我们今世的生活才有了盼望。
 
 
-{% fullimage http://jilongliao.azureedge.net/images/zh/door.jpg, 门, 门 %}
+![](http://jilongliao.azureedge.net/images/zh/door.jpg)

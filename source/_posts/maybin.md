@@ -8,7 +8,7 @@ category:
 date: 2016-01-19
 ---
 
-{% fullimage http://jilongliao.azureedge.net/images/zh/maybin.jpg, Maybin, Maybin %}
+![](http://jilongliao.azureedge.net/images/zh/maybin.jpg)
 
 2014年11月的一个普通工作日，我需要坐公司的shuttle回家。一段15分钟左右车程的路上开始和旁边的司机朋友聊天。这位朋友来自于赞比亚，从小在一个小的农村长大，看着眼前一望无际的土地却没有人耕种，心中充满梦想的他决定要改变这一切。长大以后，他放弃了在赞比亚非常好的工作、收入和社会地位，因一次偶然的机会来到美国上学。毕业后也没有在自己学习的行业工作，反而从美国东海岸搬到了西北角，在一家科技公司开shuttle。
 
@@ -16,7 +16,7 @@ date: 2016-01-19
 
 <!-- more -->
 
-{% fullimage http://jilongliao.azureedge.net/images/zh/commute.jpg, Work to home, Work to home %}
+![](http://jilongliao.azureedge.net/images/zh/commute.jpg)
 
 15分钟的车程很短，但却成就了生命的交错。可是我们在之后的3-4个月的时间里面都没有联系，我也似乎淡忘了这一切，一个平淡的交错。可是上帝的眼光看到的是3个月以后，因为我们的生命会再次的交错。
 
@@ -32,7 +32,7 @@ Maybin对中国很感兴趣。在Maybin小的时候，在他所在的小镇没�
 
 一直坚持的农业梦想在几年后的Bellevue有了不一样的改变。Maybin在Bellevue Lake Hills附近的一块荒地上面开始了自己的城市耕种。他试图用新的理念去改变人们对农业的看法，一个小小的城市农场就应运而生。后来这个小小的城市农场吸引了Bellevue市长和微软研究院的学者们。他开始思考把这个模式，特别是在农业教育方面，变得更加的普遍。Maybin对于科技的热爱让我们有一次很有意思的交流。对于农业种植的教育可能需要一个较长的周期，于是我们开始思考能否用虚拟现实的方式来解决这个问题。让学生在自己后院练习如何在非洲的土地上种植，这是不是一个很酷的想法？
 
-{% fullimage http://jilongliao.azureedge.net/images/zh/farming.jpg, Urban Farming with Bellevue Mayor and Pastor Warren, Urban Farming with Bellevue Mayor and Pastor Warren %}
+![Urban Farming with Bellevue Mayor and Pastor Warren](http://jilongliao.azureedge.net/images/zh/farming.jpg)
 
 Maybin除了自己的全职工作以外，还负责我们教会的儿童事工。他是一个见到孩子就很开心的父亲，他也喜欢激励孩子们去思考，把他们的想象变为现实。他一直认为孩子的天真和想象力是超越了我们所有成年人的。我们在自己的生命的成长中，逐渐地融入了·社会·，一个给我们带来了枷锁的地方。我们有时需要为生活而奋斗，有时需要为事业而打拼，但是却没有时间去寻找生命的真理，去想象另外一种可能性。有时候，我们甚至牺牲了家庭和身体健康。所以我常常问自己的问题：我们真的长大了吗？我们真的有了智慧么？还是捣鼓半天然并卵？
 

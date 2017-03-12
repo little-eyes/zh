@@ -4,8 +4,8 @@
 
 # Site
 title: The Little’s Place
-subtitle: 追寻真理得自由
-description: 攻城狮
+subtitle: 
+description: 追寻真理得自由
 author: Jilong Liao
 language: zh-Hans
 timezone:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: next
+theme: hipaper
 
 since: 2015
 
