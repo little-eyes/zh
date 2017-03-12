@@ -4,10 +4,10 @@
 
 # Site
 title: The Little’s Place
-subtitle: 
+subtitle: t
 description: 追寻真理得自由
 author: Jilong Liao
-language: zh-Hans
+language: en
 timezone:
 
 # URL
@@ -83,3 +83,22 @@ deploy:
   repo: https://github.com/little-eyes/zh.git
   branch: gh-pages
   message: "normal deployment"
+
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: false
